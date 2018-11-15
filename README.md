@@ -1,2 +1,2 @@
-# primeiro-rep-padrao
+# Meu primeiro-repositorio-padrao
 Formação JavaScript Mestre Jedi
